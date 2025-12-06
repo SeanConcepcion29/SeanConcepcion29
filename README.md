@@ -9,7 +9,7 @@
 ### Main Skills
 [![Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,css,dart,figma,firebase,flutter,git,github,godot,html,java,js,kotlin,mongodb,nodejs,py,react&perline=10)](https://skillicons.dev)
 
-### My Projects
+### Projects
 - 🌧️ Nationwide Operational Assessment of Hazards (Project NOAH) &nbsp; | &nbsp; [website link](https://noah.up.edu.ph/)
 - 🗓️ BRICS: Booking and Reservation System of Institute of Computer Science &nbsp; | &nbsp; [website link](https://brics-alpha.vercel.app/)
 - 🌐 ARTISAN: Accessible Routing and Topology Interactive Simulation for Applied Networking &nbsp; | &nbsp; [github repo link](https://github.com/SeanConcepcion29/artisan)
